@@ -1,0 +1,1 @@
+java -jar Delete_ShipTo-1.0-SNAPSHOT.jar -u rudradip.misra@reltio.com -p rujojo1248 -tUrl https://sndbx.reltio.com/reltio/api/us01fo01 -st configuration/entityTypes/SoldToCustomer -lc configuration/entityTypes/Location
